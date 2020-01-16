@@ -1,9 +1,15 @@
 ---
 layout: post
 title: productivity group
-list_title: test
 date: 2020-01-15 09:56 -0800
 ---
+
+Outline
+
+- introduce yourself
+- what makes you different
+- talk about some things that you've achieved 
+- your goals for the site
 
 I'm continuing to impress myself, by writing this in VIM with spellcheck on. This was a goal of mine since at earliest 2016. It's a new decade, it's 2020. This has been a common story of my life - set goal, achieve it about 3 or 4 years later. Which is not bad, considering there are a lot of people who aren't able to do that for various reasons. 
 
